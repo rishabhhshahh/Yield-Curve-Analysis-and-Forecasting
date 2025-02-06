@@ -49,19 +49,16 @@ Ensure you have the following installed:
    ```
 3. Run the analysis scripts:
    ```sh
-   python scripts/analyze_yield_curve.py
+   python Code/analyze_yield_curve.py
    ```
 
 ## Project Structure
 ```
 Yield-Curve-Analysis-and-Forecasting/
-│-- data/                # Contains raw and processed yield curve data
-│-- scripts/             # Contains Python scripts for PCA, AR models, and visualization
+│-- Data/                # Contains raw and processed yield curve data
+│-- Code/             # Contains Python scripts for PCA, AR models, and visualization
 │-- README.md            # Project documentation
 ```
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Repository
 [GitHub Repository](https://github.com/rishabhhshahh/Yield-Curve-Analysis-and-Forecasting)
